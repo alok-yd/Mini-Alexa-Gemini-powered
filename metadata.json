@@ -1,0 +1,8 @@
+{
+  "name": "Mini Alexa (Gemini)",
+  "description": "A voice-enabled AI assistant powered by Google Gemini, capable of web searches, reminders, and casual chat.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
